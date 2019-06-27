@@ -1,15 +1,10 @@
 
 h2{
-   padding-bottom: 20px;
+   font-family: unset;
+   color: white;
+   background-color: darkcyan;
 }
-h2{
-   font-family: unset
-}
-h2{
-   color: white
-}
-h2{
-   background-color: darkcyan
+
 }
 h1{
    color: darkcyan
